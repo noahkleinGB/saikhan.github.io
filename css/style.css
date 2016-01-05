@@ -1,5 +1,5 @@
 body {
-  background-color: #141618;
+  background-color: #1E1D23;
   padding: 60px;
 }
 
@@ -32,13 +32,13 @@ span {
 
 h1 {
   font-family: Futura-Medium, sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   color: #FFFFFF;
   letter-spacing: 1px;
 }
 
 p {
-  color: #A4A4A4;
+  color: #5C596C;
   font-family: MinionPro-Regular, sans-serif;
   font-size: 16px;
   letter-spacing: 0.8px;
@@ -47,9 +47,9 @@ p {
 
 h3 {
   font-family: Futura-Medium, sans-serif;
-  font-size: 11px;
+  font-size: 10px;
   color: #FFFFFF;
-  letter-spacing: 0.6px;
+  letter-spacing: 2px;
 }
 
 .left {
@@ -59,15 +59,15 @@ h3 {
 }
 
 a {
-  color: #CFAF8F;
+  color: #8E7EF0;
   text-decoration: none;
 }
 
 a:hover {
-  color: #E7D7C7;
+  color: #A79CF6;
 }
 
 a:visited {
   text-decoration: none;
-  color: #CFAF8F;
+  color: #8E7EF0;
 }
