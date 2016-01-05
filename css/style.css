@@ -1,0 +1,73 @@
+body {
+  background: white;
+  padding: 60px;
+}
+
+@media screen and (min-width: 540px)
+body {
+    padding: 60px;
+}
+
+@media screen and (min-width: 480px)
+body {
+    padding: 40px 35px;
+}
+
+@media screen and (min-width: 220px)
+body {
+    padding: 40px 24px;
+}
+
+.info {
+  margin-bottom: 70px;
+}
+
+div {
+  display: block;
+}
+
+span {
+  color: black;
+}
+
+h1 {
+  font-family: Futura-Medium, sans-serif;
+  font-size: 16px;
+  color: #000000;
+  letter-spacing: 1px;
+}
+
+p {
+  color: #7F7F7F;
+  font-family: MinionPro-Regular, sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.8px;
+  line-height: 22px;
+}
+
+h3 {
+  font-family: Futura-Medium, sans-serif;
+  font-size: 11px;
+  color: #000000;
+  letter-spacing: 0.6px;
+}
+
+.left {
+  float: left;
+  margin: 20px 55px 40px 0;
+  width: 360px;
+}
+
+a {
+  color: #00E056;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #A4A4A4;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #00E056;
+}
