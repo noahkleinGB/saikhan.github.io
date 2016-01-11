@@ -35,7 +35,7 @@ div {
 
 .left {
   float: left;
-  margin: 20px 55px 40px 0;
+  margin: 20px 55px 40px 0px;
   width: 360px;
 }
 
@@ -55,7 +55,7 @@ h3 {
 
 p {
   color: #5C596C;
-  font-family: MinionPro-Regular, serif;
+  font-family: MinionPro-Regular, sans-serif;
   font-size: 16px;
   letter-spacing: 0.8px;
   line-height: 22px;
