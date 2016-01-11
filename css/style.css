@@ -3,19 +3,22 @@ body {
   padding: 60px;
 }
 
-@media screen and (min-width: 540px)
-body {
+@media screen and (min-width: 540px) { 
+  body {
     padding: 60px;
+  }
 }
 
-@media screen and (min-width: 480px)
-body {
+@media screen and (min-width: 480px) {
+  body {
     padding: 40px 35px;
+  }
 }
 
-@media screen and (min-width: 220px)
-body {
+@media screen and (min-width: 220px) {}
+  body {
     padding: 40px 24px;
+  }
 }
 
 .info {
